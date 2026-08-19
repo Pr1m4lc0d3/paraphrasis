@@ -1,0 +1,22 @@
+{
+  "name": "paraphrasis",
+  "description": "Say the same thing to a different audience without the claim moving. Sense-for-sense restatement with a fidelity ledger. Names nine ways a claim mutates under rewriting and returns what was kept, dropped and added, so a restatement cannot quietly become a stronger claim.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ryan Heltemes",
+    "url": "https://ryan-heltemes.com"
+  },
+  "homepage": "https://github.com/Pr1m4lc0d3/paraphrasis",
+  "repository": "https://github.com/Pr1m4lc0d3/paraphrasis",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "messaging",
+    "audience",
+    "copywriting",
+    "claims",
+    "marketing",
+    "editing",
+    "skills"
+  ]
+}
