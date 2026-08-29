@@ -98,3 +98,15 @@ Or copy `skills/paraphrasis/` into your `.claude/skills/` folder.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+## Where this came from
+
+Deliberon is a Windows desktop app that runs a council of AI agents on a hard decision and hands back a Decision Record: dissent preserved, every claim marked as proved, asserted, or estimated.
+
+Paraphrasis is how its claims get restated for a new audience without the claim moving, published in full because a restatement you cannot audit is a drift you cannot catch.
+
+Pay once, it's yours, no subscription. Thirty days of the full council with no account and no card. Runs on your machine with your own model keys.
+
+https://deliberon.com
