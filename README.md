@@ -97,7 +97,9 @@ Or copy `skills/paraphrasis/` into your `.claude/skills/` folder.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Not open source. All rights reserved. See [LICENSE](LICENSE).
+
+Licences are sold: https://www.agensi.io/skills/paraphrasis-restate-without-drift
 
 ---
 
